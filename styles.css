@@ -1,0 +1,21 @@
+body{
+    background-color: #eee;
+}
+#titlle{ background-color: white;
+    color: darkcyan;
+    font-style: Gothic ;
+    text-align: center;
+}
+#log{ background-color: white;
+    color: #008b8b;
+    font-size: 2em;
+
+    text-align: center;
+}
+#form{
+    box-sizing: border-box;
+    line-height: 1.5;
+    font-style: roboto;
+}
+
+
